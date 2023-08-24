@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c45b27f.css",
+    "main.js": "/static/js/main.7800ca5d.js",
+    "static/media/bg2.jpg": "/static/media/bg2.cf4b6344546209858903.jpg",
+    "static/media/knight1.png": "/static/media/knight1.f4370965f436a48b9f4f.png",
+    "static/media/knight4.png": "/static/media/knight4.758cd8c8b23e31d72fc0.png",
+    "static/media/knight3.png": "/static/media/knight3.1f9c93fa8b3a625250ef.png",
+    "static/media/knight2.png": "/static/media/knight2.d4cac39e7aae8a674917.png",
+    "static/media/bg1.jpg": "/static/media/bg1.0abd00ca41fdf5741809.jpg",
+    "static/media/Cyberthrone.ttf": "/static/media/Cyberthrone.0d778ba2b98e73b31a4b.ttf",
+    "static/media/cyberspace.ttf": "/static/media/cyberspace.1174c48205a79970ee3b.ttf",
+    "static/media/Cyber City.otf": "/static/media/Cyber City.7c05a97d6206637e3b5d.otf",
+    "index.html": "/index.html",
+    "main.5c45b27f.css.map": "/static/css/main.5c45b27f.css.map",
+    "main.7800ca5d.js.map": "/static/js/main.7800ca5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c45b27f.css",
+    "static/js/main.7800ca5d.js"
+  ]
+}
